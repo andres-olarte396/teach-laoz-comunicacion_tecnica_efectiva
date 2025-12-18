@@ -1,0 +1,122 @@
+{
+  "id": "comunicacion-tecnica-efectiva",
+  "title": "Comunicación Técnica Efectiva para Desarrolladores",
+  "description": "Curso avanzado para mejorar la documentación técnica, RFCs, Code Reviews y comunicación asíncrona en equipos de desarrollo.",
+  "modules": [
+    {
+      "modulo_id": 0,
+      "titulo": "Diagnóstico y Nivelación",
+      "temas": [
+        {
+          "tema_id": "0.1",
+          "titulo": "La falacia de la documentación automática",
+          "subtemas": [
+            {
+              "subtema_id": "0.1.1",
+              "titulo": "Cuándo el código limpio no basta"
+            },
+            {
+              "subtema_id": "0.1.2",
+              "titulo": "Herramientas del escritor técnico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 1,
+      "titulo": "Principios de Escritura Técnica",
+      "temas": [
+        {
+          "tema_id": "1.1",
+          "titulo": "Claridad y Estilo",
+          "subtemas": [
+            { "subtema_id": "1.1.1", "titulo": "Eliminación de voz pasiva" },
+            {
+              "subtema_id": "1.1.2",
+              "titulo": "Estructura de pirámide invertida"
+            }
+          ]
+        },
+        {
+          "tema_id": "1.2",
+          "titulo": "Audiencia y Contexto",
+          "subtemas": [
+            { "subtema_id": "1.2.1", "titulo": "Usuario vs. Mantenedor" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 2,
+      "titulo": "Documentación en el Código",
+      "temas": [
+        {
+          "tema_id": "2.1",
+          "titulo": "Comentarios y Docstrings",
+          "subtemas": [
+            { "subtema_id": "2.1.1", "titulo": "El Por Qué sobre el Qué" }
+          ]
+        },
+        {
+          "tema_id": "2.2",
+          "titulo": "The Almighty README",
+          "subtemas": [
+            { "subtema_id": "2.2.1", "titulo": "Estructura de un README ganador" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 3,
+      "titulo": "Documentación de Diseño y Arquitectura",
+      "temas": [
+        {
+          "tema_id": "3.1",
+          "titulo": "RFCs y Design Docs",
+          "subtemas": [
+            { "subtema_id": "3.1.1", "titulo": "Anatomía de un Design Doc" }
+          ]
+        },
+        {
+          "tema_id": "3.2",
+          "titulo": "ADRs (Architecture Decision Records)",
+          "subtemas": [{ "subtema_id": "3.2.1", "titulo": "Implementando ADRs" }]
+        }
+      ]
+    },
+    {
+      "modulo_id": 4,
+      "titulo": "Comunicación en Crisis y Feedback",
+      "temas": [
+        {
+          "tema_id": "4.1",
+          "titulo": "Postmortems Blameless",
+          "subtemas": [
+            { "subtema_id": "4.1.1", "titulo": "Causa Raíz y Cronología" }
+          ]
+        },
+        {
+          "tema_id": "4.2",
+          "titulo": "Code Reviews Empáticos",
+          "subtemas": [
+            { "subtema_id": "4.2.1", "titulo": "Comentarios accionables" }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo_id": 5,
+      "titulo": "Proyecto Integrador Final",
+      "temas": [
+        {
+          "tema_id": "5.1",
+          "titulo": "Developer Portal Mockup",
+          "subtemas": [
+            { "subtema_id": "5.1.1", "titulo": "Ejecución del Proyecto" }
+          ]
+        }
+      ]
+    }
+  ]
+}
