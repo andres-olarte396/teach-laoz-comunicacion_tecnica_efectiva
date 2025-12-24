@@ -80,7 +80,7 @@ La **Pirámide Invertida** ordenan la información por orden de importancia decr
 
 ## Errores frecuentes
 
-### Error 1: "Enterrar el Lead" (Burying the Lead)
+### Error 1. "Enterrar el Lead" (Burying the Lead)
 
 Empezar con "Debido a los recientes cambios en la arquitectura de microservicios..." en lugar de "El endpoint /users está deprecado".
 

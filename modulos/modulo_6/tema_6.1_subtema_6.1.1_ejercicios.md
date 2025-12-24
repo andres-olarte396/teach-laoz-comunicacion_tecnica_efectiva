@@ -11,7 +11,7 @@
 
 ---
 
-## PASO 1: La Landing Page (El Pitch)
+## PASO 1. La Landing Page (El Pitch)
 
 ### INSTRUCCIONES
 

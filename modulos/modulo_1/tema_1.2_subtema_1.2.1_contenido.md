@@ -1,4 +1,4 @@
-# TEMA 1.2.1: MAPEO DE AUDIENCIA
+# TEMA 1.2.1. MAPEO DE AUDIENCIA
 
 **Tiempo estimado**: 20 minutos
 **Nivel**: Intermedio
@@ -85,7 +85,7 @@ Antes de escribir un documento, ejecuta este `switch`:
 
 ## Errores frecuentes
 
-### Error 1: "Leaking Internals" (La Fuga)
+### Error 1. "Leaking Internals" (La Fuga)
 
 Explicar la implementación en la guía de usuario.
 

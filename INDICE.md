@@ -8,7 +8,7 @@ Este índice te guía por la estructura y los recursos del curso, facilitando el
 
 ## Módulos
 
-### Módulo 1: Comunicación técnica efectiva en equipos
+### Módulo 1. Comunicación técnica efectiva en equipos
 
 - [`modulos/modulo1/Presentacion.md`](./modulos/modulo1/Presentacion.md): Esquema de la presentación del módulo.
 - [`modulos/modulo1/Actividades/`](./modulos/modulo1/Actividades/): Ejercicios y prácticas recomendadas.

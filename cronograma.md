@@ -7,7 +7,7 @@
 
 ## CALENDARIO SEMANAL
 
-### SEMANA 1: FUNDAMENTOS Y HERRAMIENTAS
+### SEMANA 1. FUNDAMENTOS Y HERRAMIENTAS
 
 - **Sesión 1 (Mód 0)**: Configuración de Vale y Linter.
 - **Sesión 2 (Mód 1)**: Taller de reescritura (Voz Pasiva a Activa).

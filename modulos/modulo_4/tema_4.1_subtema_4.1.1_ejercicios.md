@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: El One-Liner Ejecutivo
+## EJERCICIO 1. El One-Liner Ejecutivo
 
 ### ENUNCIADO
 

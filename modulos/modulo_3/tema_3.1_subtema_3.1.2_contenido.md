@@ -102,7 +102,7 @@ security:
 
 ## Errores frecuentes
 
-### Error 1: Leakear Stack Traces
+### Error 1. Leakear Stack Traces
 
 Nunca devuelvas el stack trace de Java/Python en producción.
 

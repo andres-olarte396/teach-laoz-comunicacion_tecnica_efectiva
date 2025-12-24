@@ -1,4 +1,4 @@
-# TEMA 1.1.1: ELIMINACIÓN DE VOZ PASIVA
+# TEMA 1.1.1. ELIMINACIÓN DE VOZ PASIVA
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedia
@@ -73,7 +73,7 @@ Para corregir frases pasivas, siga este procedimiento paso a paso:
 
 ### Ejemplos de Refactorización (Antes vs. Después)
 
-#### Caso 1: Instrucciones al Usuario
+#### Caso 1. Instrucciones al Usuario
 
 **Pasiva (Incorrecto):**
 > "El botón 'Deploy' deberá ser presionado cuando los tests hayan pasado."
@@ -115,7 +115,7 @@ Intente refactorizar este párrafo técnico común:
 
 ## Errores frecuentes
 
-### Error 1: La pasiva "Zombie"
+### Error 1. La pasiva "Zombie"
 
 Ocurre cuando se oculta al actor deliberadamente para no sonar "agresivo" o directo.
 

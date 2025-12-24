@@ -1,4 +1,4 @@
-# TEMA 2.1.1: COMENTARIOS Y DOCSTRINGS (EL POR QUÉ)
+# TEMA 2.1.1. COMENTARIOS Y DOCSTRINGS (EL POR QUÉ)
 
 **Tiempo estimado**: 25 minutos
 **Nivel**: Básico
@@ -46,7 +46,7 @@ Antes de escribir `// Calcula el total`, renombra la variable `t` a `total_invoi
 
 ## Implementación práctica
 
-### Caso 1: El comentario redundante (Anti-patrón)
+### Caso 1. El comentario redundante (Anti-patrón)
 
 ```python
 # Incrementa i en 1

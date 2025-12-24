@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: El Arquitecto de Caching
+## EJERCICIO 1. El Arquitecto de Caching
 
 ### ENUNCIADO
 

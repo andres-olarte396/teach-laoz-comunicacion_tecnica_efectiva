@@ -1,4 +1,4 @@
-# TEMA 5.2.1: CODE REVIEWS EMPÁTICOS
+# TEMA 5.2.1. CODE REVIEWS EMPÁTICOS
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedio
@@ -76,7 +76,7 @@ A veces ayuda empezar con algo positivo.
 
 ## Errores frecuentes
 
-### Error 1: "LGTM" Automático (Looks Good To Me)
+### Error 1. "LGTM" Automático (Looks Good To Me)
 
 Aprobar sin leer es peligroso. Si no entiendes el código, di: *"No tengo contexto suficiente para aprobar esto"*. Es más profesional.
 

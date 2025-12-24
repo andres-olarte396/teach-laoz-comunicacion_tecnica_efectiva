@@ -49,7 +49,7 @@ Al usar voz pasiva, estás gastando ciclos de CPU del cerebro de tu lector inút
 **[LOCUTOR]**:
 ¿Cómo refactorizamos esto? No necesitas ser un lingüista, solo sigue este algoritmo de 3 pasos:
 
-**Paso 1: Detectar.**
+**Paso 1. Detectar.**
 Busca el patrón "ser + un verbo en pasado". "Es hecho", "Fue enviado", "Será cancelado". Ese es tu `code smell`.
 
 **Paso 2: Preguntar "¿Quién?".**

@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: El Semáforo HTTP
+## EJERCICIO 1. El Semáforo HTTP
 
 ### ENUNCIADO
 

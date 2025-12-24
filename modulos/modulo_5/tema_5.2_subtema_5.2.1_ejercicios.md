@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: El Traductor Diplomático
+## EJERCICIO 1. El Traductor Diplomático
 
 ### ENUNCIADO
 

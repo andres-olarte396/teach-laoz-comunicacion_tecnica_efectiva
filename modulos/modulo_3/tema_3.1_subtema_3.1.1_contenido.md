@@ -1,4 +1,4 @@
-# TEMA 3.1.1: OPENAPI/SWAGGER (CONTRACT-FIRST)
+# TEMA 3.1.1. OPENAPI/SWAGGER (CONTRACT-FIRST)
 
 **Tiempo estimado**: 35 minutos
 **Nivel**: Intermedio
@@ -101,7 +101,7 @@ paths:
 
 ## Errores frecuentes
 
-### Error 1: Generar la documentación desde el código (Code-First)
+### Error 1. Generar la documentación desde el código (Code-First)
 
 Usar anotaciones en Java/Python para generar el Swagger al final.
 *Problema*: La documentación siempre llega tarde y refleja "lo que el código hace" (bugs incluidos), no "lo que debería hacer".

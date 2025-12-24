@@ -1,4 +1,4 @@
-# Actividad Módulo 1: Simulación de Revisión de Código y Comunicación de Feedback
+# Actividad Módulo 1. Simulación de Revisión de Código y Comunicación de Feedback
 
 ## Descripción
 

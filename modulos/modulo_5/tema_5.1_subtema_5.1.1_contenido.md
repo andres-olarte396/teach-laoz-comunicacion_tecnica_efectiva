@@ -1,4 +1,4 @@
-# TEMA 5.1.1: POSTMORTEMS BLAMELESS (CAUSA RAÍZ)
+# TEMA 5.1.1. POSTMORTEMS BLAMELESS (CAUSA RAÍZ)
 
 **Tiempo estimado**: 35 minutos
 **Nivel**: Intermedio
@@ -79,7 +79,7 @@ No te detengas en la primera respuesta.
 
 ## Errores frecuentes
 
-### Error 1: Lenguaje Acusatorio
+### Error 1. Lenguaje Acusatorio
 
 * *Mal*: "El error fue causado porque Pedro olvidó el `WHERE`."
 * *Bien*: "El comando `DELETE` fue ejecutado sin cláusula `WHERE`, lo que el sistema permitió sin advertencia."

@@ -11,7 +11,7 @@
 
 ## CUESTIONARIO
 
-### Pregunta 1: Identificación
+### Pregunta 1. Identificación
 
 ¿Cuál de las siguientes oraciones utiliza correctamente la **Voz Activa**?
 
@@ -60,7 +60,7 @@ d) Nunca, está prohibida en ingeniería.
 
 ## SOLUCIONARIO
 
-### Respuesta 1: **b) El controlador valida los datos antes de guardarlos.**
+### Respuesta 1. **b) El controlador valida los datos antes de guardarlos.**
 >
 > **Justificación**: Sigue la estructura Sujeto (Controlador) -> Verbo (Valida) -> Objeto (Datos). Las otras opciones ocultan o posponen al actor.
 

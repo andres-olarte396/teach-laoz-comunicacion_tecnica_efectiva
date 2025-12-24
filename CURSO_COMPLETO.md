@@ -1,4 +1,4 @@
-# TEMA 1.1.1: ELIMINACIÓN DE VOZ PASIVA
+# TEMA 1.1.1. ELIMINACIÓN DE VOZ PASIVA
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedia
@@ -73,7 +73,7 @@ Para corregir frases pasivas, siga este procedimiento paso a paso:
 
 ### Ejemplos de Refactorización (Antes vs. Después)
 
-#### Caso 1: Instrucciones al Usuario
+#### Caso 1. Instrucciones al Usuario
 
 **Pasiva (Incorrecto):**
 > "El botón 'Deploy' deberá ser presionado cuando los tests hayan pasado."
@@ -115,7 +115,7 @@ Intente refactorizar este párrafo técnico común:
 
 ## Errores frecuentes
 
-### Error 1: La pasiva "Zombie"
+### Error 1. La pasiva "Zombie"
 
 Ocurre cuando se oculta al actor deliberadamente para no sonar "agresivo" o directo.
 
@@ -221,7 +221,7 @@ La **Pirámide Invertida** ordenan la información por orden de importancia decr
 
 ## Errores frecuentes
 
-### Error 1: "Enterrar el Lead" (Burying the Lead)
+### Error 1. "Enterrar el Lead" (Burying the Lead)
 
 Empezar con "Debido a los recientes cambios en la arquitectura de microservicios..." en lugar de "El endpoint /users está deprecado".
 
@@ -239,7 +239,7 @@ Si la información importante está en la línea 5, es invisible.
 **Regla de Oro**: Si el usuario deja de leer después de la primera frase, ¿se llevó la información vital? Si es sí, usaste bien la pirámide.
 
 **Siguiente paso**: Ejercicios para reescribir textos cronológicos.
-# TEMA 1.2.1: MAPEO DE AUDIENCIA
+# TEMA 1.2.1. MAPEO DE AUDIENCIA
 
 **Tiempo estimado**: 20 minutos
 **Nivel**: Intermedio
@@ -326,7 +326,7 @@ Antes de escribir un documento, ejecuta este `switch`:
 
 ## Errores frecuentes
 
-### Error 1: "Leaking Internals" (La Fuga)
+### Error 1. "Leaking Internals" (La Fuga)
 
 Explicar la implementación en la guía de usuario.
 
@@ -351,7 +351,7 @@ Escribir pensando que el lector lleva 6 meses en el proyecto.
 **Prerrequisito crítico**: Teoría de la Mente (capacidad de atribuir desconocimiento a otros).
 
 **Siguiente paso**: Módulo 2 - Documentación en el Código (donde aplicaremos esto a Comentarios vs. Docstrings).
-# TEMA 2.1.1: COMENTARIOS Y DOCSTRINGS (EL POR QUÉ)
+# TEMA 2.1.1. COMENTARIOS Y DOCSTRINGS (EL POR QUÉ)
 
 **Tiempo estimado**: 25 minutos
 **Nivel**: Básico
@@ -399,7 +399,7 @@ Antes de escribir `// Calcula el total`, renombra la variable `t` a `total_invoi
 
 ## Implementación práctica
 
-### Caso 1: El comentario redundante (Anti-patrón)
+### Caso 1. El comentario redundante (Anti-patrón)
 
 ```python
 # Incrementa i en 1
@@ -458,7 +458,7 @@ def connect_db(timeout: int = 30) -> Connection:
 **Cuándo comentar**: Cuando tomaste una decisión no obvia, cuando hay un bug conocido de una librería externa, o cuando la lógica es matemáticamente compleja.
 
 **Siguiente paso**: El README (El documento más importante de tu repositorio).
-# TEMA 2.2.1: ESTRUCTURA DE UN README GANADOR
+# TEMA 2.2.1. ESTRUCTURA DE UN README GANADOR
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedio
@@ -567,7 +567,7 @@ Tu sección de instalación debe ser copiables y pegables.
 **La Regla de los 10 Segundos**: Si no puedo ejecutar tu código en 10 segundos (o entender qué hace), cerraré la pestaña.
 
 **Siguiente paso**: Generación de Ejercicios para auditar READMEs reales.
-# TEMA 3.1.1: OPENAPI/SWAGGER (CONTRACT-FIRST)
+# TEMA 3.1.1. OPENAPI/SWAGGER (CONTRACT-FIRST)
 
 **Tiempo estimado**: 35 minutos
 **Nivel**: Intermedio
@@ -670,7 +670,7 @@ paths:
 
 ## Errores frecuentes
 
-### Error 1: Generar la documentación desde el código (Code-First)
+### Error 1. Generar la documentación desde el código (Code-First)
 
 Usar anotaciones en Java/Python para generar el Swagger al final.
 *Problema*: La documentación siempre llega tarde y refleja "lo que el código hace" (bugs incluidos), no "lo que debería hacer".
@@ -793,7 +793,7 @@ security:
 
 ## Errores frecuentes
 
-### Error 1: Leakear Stack Traces
+### Error 1. Leakear Stack Traces
 
 Nunca devuelvas el stack trace de Java/Python en producción.
 
@@ -814,7 +814,7 @@ Nunca devuelvas el stack trace de Java/Python en producción.
 **Regla de Oro**: Un buen error enseña al usuario cómo usar la API.
 
 **Siguiente paso**: Generación de Ejercicios para diagnosticar APIs mentirosas.
-# TEMA 4.1.1: ANATOMÍA DE UN DESIGN DOC
+# TEMA 4.1.1. ANATOMÍA DE UN DESIGN DOC
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Avanzado
@@ -880,7 +880,7 @@ Ese día te ahorrará 3 días de bugs y refactorización futura.
 
 ## Errores frecuentes
 
-### Error 1: Escribirlo después de programar
+### Error 1. Escribirlo después de programar
 
 Eso no es un Design Doc, es documentación arqueológica. No sirve para prevenir errores.
 
@@ -902,7 +902,7 @@ Un mal ingeniero dice: *"Es perfecta"*.
 **Regla de Oro**: Busca el feedback negativo. Si todos dicen "LGTM" (Looks Good To Me) sin leer, tu Design Doc falló. Quieres que alguien encuentre el agujero de seguridad ahora, no los hackers después.
 
 **Siguiente paso**: Ejercicios para analizar alternativas y trade-offs.
-# TEMA 4.2.1: ADRs (ARCHITECTURE DECISION RECORDS)
+# TEMA 4.2.1. ADRs (ARCHITECTURE DECISION RECORDS)
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Avanzado
@@ -1003,7 +1003,7 @@ adr new "Usar UUIDs"
 **Regla de Oro**: Un ADR explica el "Por qué", no solo el "Qué". Incluso "No hacer nada" es una decisión que merece un ADR.
 
 **Siguiente paso**: Generación de Ejercicios para redactar tus primeros ADRs.
-# TEMA 5.1.1: POSTMORTEMS BLAMELESS (CAUSA RAÍZ)
+# TEMA 5.1.1. POSTMORTEMS BLAMELESS (CAUSA RAÍZ)
 
 **Tiempo estimado**: 35 minutos
 **Nivel**: Intermedio
@@ -1084,7 +1084,7 @@ No te detengas en la primera respuesta.
 
 ## Errores frecuentes
 
-### Error 1: Lenguaje Acusatorio
+### Error 1. Lenguaje Acusatorio
 
 * *Mal*: "El error fue causado porque Pedro olvidó el `WHERE`."
 * *Bien*: "El comando `DELETE` fue ejecutado sin cláusula `WHERE`, lo que el sistema permitió sin advertencia."
@@ -1104,7 +1104,7 @@ La solución debe ser técnica (Tooling, Automatización, Linter), no psicológi
 **Regla de Oro**: Si en tu postmortem aparece el nombre de una persona como "Causa", has fallado. La causa siempre es el proceso o la herramienta.
 
 **Siguiente paso**: Ejercicios para practicar la técnica de los 5 Porqués.
-# TEMA 5.2.1: CODE REVIEWS EMPÁTICOS
+# TEMA 5.2.1. CODE REVIEWS EMPÁTICOS
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedio
@@ -1182,7 +1182,7 @@ A veces ayuda empezar con algo positivo.
 
 ## Errores frecuentes
 
-### Error 1: "LGTM" Automático (Looks Good To Me)
+### Error 1. "LGTM" Automático (Looks Good To Me)
 
 Aprobar sin leer es peligroso. Si no entiendes el código, di: *"No tengo contexto suficiente para aprobar esto"*. Es más profesional.
 
@@ -1201,7 +1201,7 @@ Evita preguntas retóricas. Sé explícito.
 **Regla de Oro**: Si tienes que escribir más de 3 comentarios seguidos sobre el mismo tema, **deja de escribir y haz una videollamada**. El texto es malo para el debate.
 
 **Siguiente paso**: Ejercicios para reescribir comentarios tóxicos.
-# TEMA 6.1.1: EL PORTAL DEL DESARROLLADOR (PROYECTO BOOMERANG)
+# TEMA 6.1.1. EL PORTAL DEL DESARROLLADOR (PROYECTO BOOMERANG)
 
 **Tiempo estimado**: 45 minutos (Lectura + Inicio de Proyecto)
 **Nivel**: Experto

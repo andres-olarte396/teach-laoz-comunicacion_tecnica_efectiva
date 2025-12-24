@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: Matando el Ruido
+## EJERCICIO 1. Matando el Ruido
 
 ### ENUNCIADO
 

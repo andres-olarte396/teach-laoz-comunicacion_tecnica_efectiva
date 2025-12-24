@@ -1,4 +1,4 @@
-# Módulo 1: Principios de la Comunicación Técnica Efectiva en Ingeniería de Software
+# Módulo 1. Principios de la Comunicación Técnica Efectiva en Ingeniería de Software
 
 ## Objetivo
 

@@ -1,4 +1,4 @@
-# TEMA 4.2.1: ADRs (ARCHITECTURE DECISION RECORDS)
+# TEMA 4.2.1. ADRs (ARCHITECTURE DECISION RECORDS)
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Avanzado

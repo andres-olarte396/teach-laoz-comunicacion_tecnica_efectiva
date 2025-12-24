@@ -1,4 +1,4 @@
-# TEMA 6.1.1: EL PORTAL DEL DESARROLLADOR (PROYECTO BOOMERANG)
+# TEMA 6.1.1. EL PORTAL DEL DESARROLLADOR (PROYECTO BOOMERANG)
 
 **Tiempo estimado**: 45 minutos (Lectura + Inicio de Proyecto)
 **Nivel**: Experto

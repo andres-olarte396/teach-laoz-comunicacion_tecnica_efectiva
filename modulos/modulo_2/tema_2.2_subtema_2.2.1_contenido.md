@@ -1,4 +1,4 @@
-# TEMA 2.2.1: ESTRUCTURA DE UN README GANADOR
+# TEMA 2.2.1. ESTRUCTURA DE UN README GANADOR
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Intermedio

@@ -1,4 +1,4 @@
-# Evaluación Módulo 1: Comunicación técnica en equipos
+# Evaluación Módulo 1. Comunicación técnica en equipos
 
 ## Checklist de observación
 

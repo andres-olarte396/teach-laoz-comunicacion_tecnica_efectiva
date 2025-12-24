@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: Arqueología del Lead
+## EJERCICIO 1. Arqueología del Lead
 
 ### ENUNCIADO
 

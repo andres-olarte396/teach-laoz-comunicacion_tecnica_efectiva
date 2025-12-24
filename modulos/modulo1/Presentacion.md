@@ -1,4 +1,4 @@
-# Módulo 1: Principios Fundamentales de la Comunicación Técnica Efectiva
+# Módulo 1. Principios Fundamentales de la Comunicación Técnica Efectiva
 
 ## Objetivo
 

@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: Clasificación de Documentos
+## EJERCICIO 1. Clasificación de Documentos
 
 ### ENUNCIADO
 

@@ -13,7 +13,7 @@
 
 ---
 
-## EJERCICIO 1: Detección de Agentes Ocultos
+## EJERCICIO 1. Detección de Agentes Ocultos
 
 ### METADATA
 

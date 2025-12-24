@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: Los 5 Porqués
+## EJERCICIO 1. Los 5 Porqués
 
 ### ENUNCIADO
 

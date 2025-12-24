@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: El Inspector de Contratos
+## EJERCICIO 1. El Inspector de Contratos
 
 ### ENUNCIADO
 

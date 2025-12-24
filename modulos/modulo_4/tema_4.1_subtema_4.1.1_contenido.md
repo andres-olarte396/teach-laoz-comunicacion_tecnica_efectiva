@@ -1,4 +1,4 @@
-# TEMA 4.1.1: ANATOMÍA DE UN DESIGN DOC
+# TEMA 4.1.1. ANATOMÍA DE UN DESIGN DOC
 
 **Tiempo estimado**: 30 minutos
 **Nivel**: Avanzado
@@ -64,7 +64,7 @@ Ese día te ahorrará 3 días de bugs y refactorización futura.
 
 ## Errores frecuentes
 
-### Error 1: Escribirlo después de programar
+### Error 1. Escribirlo después de programar
 
 Eso no es un Design Doc, es documentación arqueológica. No sirve para prevenir errores.
 

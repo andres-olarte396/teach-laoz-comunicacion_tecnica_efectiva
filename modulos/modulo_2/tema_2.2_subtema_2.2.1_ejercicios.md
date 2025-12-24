@@ -12,7 +12,7 @@
 
 ---
 
-## EJERCICIO 1: Auditoría de 10 Segundos
+## EJERCICIO 1. Auditoría de 10 Segundos
 
 ### ENUNCIADO
 
@@ -25,7 +25,7 @@ Intenta responder estas 3 preguntas:
 
 **Diagnóstico**:
 
-- Si fallaste la #1: Te falta un "One-Liner" claro al inicio.
+- Si fallaste la #1. Te falta un "One-Liner" claro al inicio.
 - Si fallaste la #2: Tu sección de instalación "entierra el lede" o no tienes bloques de código copiables.
 - Si fallaste la #3: Te faltan Badges de estado.
 

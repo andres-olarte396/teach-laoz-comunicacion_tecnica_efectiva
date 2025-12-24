@@ -51,7 +51,7 @@ graph TD
 
 #### Ruta Básica
 
-- Concepto 0.1: La falacia de "El código se documenta solo"
+- Concepto 0.1. La falacia de "El código se documenta solo"
   - Objetivo específico: Identificar cuándo el código limpio no es suficiente.
   - Tiempo estimado: 20 min
   - Tipo: Teórico
@@ -70,12 +70,12 @@ graph TD
 
 ---
 
-### MÓDULO 1: Principios de Escritura Técnica
+### MÓDULO 1. Principios de Escritura Técnica
 
 **Duración**: 1.5 horas
 **Objetivo**: Aplicar las reglas de oro de la escritura técnica: claridad, concisión y estructura.
 
-#### TEMA 1.1: Claridad y Estilo
+#### TEMA 1.1. Claridad y Estilo
 
 **Objetivo del Tema**: Eliminar ambigüedad y ruido en el texto.
 
@@ -102,7 +102,7 @@ graph TD
 **Duración**: 2 horas
 **Objetivo**: Producir artefactos de documentación que vivan junto al código y se mantengan actualizados.
 
-#### TEMA 2.1: Comentarios y Docstrings Pragmáticos
+#### TEMA 2.1. Comentarios y Docstrings Pragmáticos
 
 - **Subtema 2.1.1**: El "Por qué" sobre el "Qué"
   - Objetivo: Escribir comentarios que expliquen decisiones, no sintaxis.
@@ -123,7 +123,7 @@ graph TD
 **Duración**: 2.5 horas
 **Objetivo**: Estructurar y comunicar decisiones técnicas complejas a stakeholders.
 
-#### TEMA 3.1: RFCs (Request for Comments) y Design Docs
+#### TEMA 3.1. RFCs (Request for Comments) y Design Docs
 
 - **Subtema 3.1.1**: Anatomía de un Design Doc
   - Objetivo: Redactar Contexto, Alternativas Consideradas y Propuesta.
@@ -143,7 +143,7 @@ graph TD
 **Duración**: 2 horas
 **Objetivo**: Mantener profesionalismo y claridad bajo presión o conflicto.
 
-#### TEMA 4.1: Postmortems Blameless
+#### TEMA 4.1. Postmortems Blameless
 
 - **Subtema 4.1.1**: Causa Raíz y Cronología
   - Objetivo: Redactar un reporte de incidente enfocado en el sistema, no las personas.
